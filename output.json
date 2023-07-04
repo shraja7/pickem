@@ -1,0 +1,91 @@
+{
+  "title": "UFC 290: Volkanovski vs. Rodriguez",
+  "date": "July 08, 2023",
+  "location": "Las Vegas, Nevada, USA",
+  "fighters": [
+    {
+      "fighter1": "Alexander Volkanovski",
+      "fighter2": "Yair Rodriguez",
+      "heroUrl1": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2023-02/VOLKANOVSKI_ALEXANDER_L_02-11.png?itok=ZuyYEOcc",
+      "heroUrl2": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2023-05/RODRIGUEZ_YAIR_L_BELT.png?itok=2BJcAs4l"
+    },
+    {
+      "fighter1": "Brandon Moreno",
+      "fighter2": "Alexandre Pantoja",
+      "heroUrl1": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2023-01/MORENO_BRANDON_L_BELT.png?itok=ADeb1iy9",
+      "heroUrl2": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-08/67251%252Fprofile-galery%252Ffullbodyleft-picture%252FPANTOJA_ALEXANDRE_L_08-21.png?itok=n7c5S4fF"
+    },
+    {
+      "fighter1": "Robert Whittaker",
+      "fighter2": "Dricus Du Plessis",
+      "heroUrl1": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-09/WHITTAKER_ROBERT_L_09-03.png?itok=CzGz9WWQ",
+      "heroUrl2": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2023-02/DU_PLESSUS_DRICUS_L_12-10.png?itok=U9SQQgcy"
+    },
+    {
+      "fighter1": "Jalin Turner",
+      "fighter2": "Dan Hooker",
+      "heroUrl1": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/e22c890b-633a-4f3a-87a6-24fbf20f6d44%252FTURNER_JALIN_L_07-02.png?itok=G7oSUQh-",
+      "heroUrl2": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-11/HOOKER_DAN_L_11-12.png?itok=FpPcLeKp"
+    },
+    {
+      "fighter1": "Bo Nickal",
+      "fighter2": "Tresean Gore",
+      "heroUrl1": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2023-03/NICKAL_BO_L_03-05.png?itok=BE9wcn33",
+      "heroUrl2": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-02/9d763b9b-ade2-4b59-b08c-ee14b273c60e%252FGORE_TRESEAN_L_02-05.png?itok=L5Q24zPr"
+    },
+    {
+      "fighter1": "Robbie Lawler",
+      "fighter2": "Niko Price",
+      "heroUrl1": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-11/LAWLER_ROBBIE_L_09-25.png?itok=eRjjL_cR",
+      "heroUrl2": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-12/PRICE_NIKO_L_12-03.png?itok=wD0Yam1Y"
+    },
+    {
+      "fighter1": "Jack Della Maddalena",
+      "fighter2": "Josiah Harrell",
+      "heroUrl1": null,
+      "heroUrl2": null
+    },
+    {
+      "fighter1": "Yazmin Jauregui",
+      "fighter2": "Denise Gomes",
+      "heroUrl1": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-08/JAUREGUI_YAZMIN_L_08-13.png?itok=B7t5fnwA",
+      "heroUrl2": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-09/GOMES_DENISE_L_09-17.png?itok=uhiuYLlE"
+    },
+    {
+      "fighter1": "Jimmy Crute",
+      "fighter2": "Alonzo Menifield",
+      "heroUrl1": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2023-02/CRUTE_JIMMY_L_02-11.png?itok=FReBwqXV",
+      "heroUrl2": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-08/67283%252Fprofile-galery%252Ffullbodyleft-picture%252FMENIFIELD_ALONZO_L_08-07.png?itok=ZiG3n9vH"
+    },
+    {
+      "fighter1": "Tatsuro Taira",
+      "fighter2": "Edgar Chairez",
+      "heroUrl1": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2023-06/TAIRA_TATSURO_L_06-24.png?itok=6t5qUQfS",
+      "heroUrl2": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-08/CHAIREZ_EDGAR_L.png?itok=ovY9DmFY"
+    },
+    {
+      "fighter1": "Vitor Petrino",
+      "fighter2": "Marcin Prachnio",
+      "heroUrl1": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2023-03/PETRINO_VITOR_L_03-11.png?itok=8kIuIx8J",
+      "heroUrl2": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2023-02/PRACHNIO_MARCIN_L_02-18.png?itok=4jz78JHO"
+    },
+    {
+      "fighter1": "Cameron Saaiman",
+      "fighter2": "Terrence Mitchell",
+      "heroUrl1": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-12/SAAIMAN_CAMERON_L_12-10.png?itok=n0trAnVa",
+      "heroUrl2": null
+    },
+    {
+      "fighter1": "Shannon Ross",
+      "fighter2": "Jesus Aguilar",
+      "heroUrl1": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2023-02/ROSS_SHANNON_L_02-11.png?itok=2zUmTU7O",
+      "heroUrl2": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2023-02/AGUILAR_JESUS_L_02-04.png?itok=YgaFL7-o"
+    },
+    {
+      "fighter1": "Kamuela Kirk",
+      "fighter2": "Esteban Ribovics",
+      "heroUrl1": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-06/68444%252Fprofile-galery%252Ffullbodyleft-picture%252FKIRK_KAMUELA_L_06-05.png?VersionId=null&itok=WBMs_cIY",
+      "heroUrl2": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2023-03/RIBOVICS_ESTEBAN_L_03-05.png?itok=2FixDGw-"
+    }
+  ]
+}
